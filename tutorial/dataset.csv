@@ -1,0 +1,11 @@
+﻿Student,Gender,Age,Course,Semester,Grade
+1,M,22,COMP101,Spring17,Good
+2,F,17,MATH201,Fall20,Good
+3,F,17,ACCT320,Spring17,Good
+4,M,14,COMP101,Winter19,Good
+5,M,20,COMP101,Spring17,Good
+6,M,22,MATH201,Fall20,Poor
+7,F,24,ACCT320,Fall19,Poor
+8,F,21,MATH201,Fall19,Good
+9,M,22,ACCT320,Fall20,Poor
+10,M,28,COMP101,Fall19,Poor
